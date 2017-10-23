@@ -1,0 +1,9 @@
+git config --global user.name "Pasha Chekushkin"
+git config --global user.email x.chekushkin.pael@gmail.com
+git config --global core.editor \
+"'C:\Program Files\Notepad++\notepad++.exe' -multiInst -notabbar -nosession -noPlugin"
+git config --global core.autocrlf true
+git config --global core.autocrlf input
+git config --global core.whitespace \
+trailing-space,space-before-tab,indent-with-non-tab
+раскрашиваем git(пример config в главной папке)

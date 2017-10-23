@@ -1,0 +1,19 @@
+git branch
+git checkout
+git log --oneline --decorate -graph --all
+git branch -d
+git merge
+git mergetool
+git branch -v
+git branch --merge(--no-merge)
+git branch -D
+git push
+git pull
+git branch -u
+git diff --check
+git add --patch
+git format-patch -M
+git apply
+git am
+git am --resolved
+git shortlog

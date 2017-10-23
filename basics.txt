@@ -1,0 +1,28 @@
+/git init
+git add -A
+git status
+git diff
+git diff --cached
+git commit -m
+git rm
+git rm -f
+git rm --cached
+mv имя1 имя2
+git log
+git log -p -2
+git log --stat
+git log --pretty=oneline
+git log --pretty=short(full,fuller)
+git log --pretty=format:"%h - %an, %ar : %s"
+git log --graph
+git log --since=2.weeks
+git commit --amend
+git reset HEAD
+git checkout -- 
+git remote -v
+git fetch sum
+git pull
+git push
+git remote show
+git remote rename
+git remote rm
